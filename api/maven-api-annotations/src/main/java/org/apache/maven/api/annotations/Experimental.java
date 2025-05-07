@@ -26,6 +26,8 @@ import java.lang.annotation.RetentionPolicy;
  * This annotation tags types that are part of an experimental API.
  * Classes or methods annotated with this annotation may be changed / removed without notice.
  *
+ * 标记为实验性质API
+ *
  * @since 4.0.0
  */
 @Experimental

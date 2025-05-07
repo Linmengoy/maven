@@ -27,7 +27,7 @@ import java.lang.annotation.Target;
 /**
  * The {@code ThreadSafe} annotation can be used to indicate a given type
  * is thread safe.  {@link Immutable} objects are automatically thread safe.
- *
+ * 声明是线程安全对象
  * @see Immutable
  * @see NotThreadSafe
  * @since 4.0.0
